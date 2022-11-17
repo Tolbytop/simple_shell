@@ -1,1 +1,1 @@
-Team pproject 0x16. C - Simple Shell bi ali abdela and sami birhanu
+Team pproject 0x16. C - Simple Shell by adedotun adetola and fabinu temitope
